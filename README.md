@@ -6,7 +6,12 @@
 
 ## Git Commands
 ```
+git clone <repo_url>
 git status
-git add
-git commit 
+git add <filename> || git add . 
+git commit -m "message"
+git push 
+git pull
+git checkout
+git merge
 ```
